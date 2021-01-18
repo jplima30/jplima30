@@ -5,10 +5,11 @@
 </h1>
 
 <p align='center'>
-  Um desenvolvedor mobile iOS de Belém, Brasil.
- Confira um pouco sobre a minha trajetória e projetos abaixo:
+  Atualmente aprofundando os conhecimentos na plataforma da apple, atuando como desenvolvedor mobile iOS.
 </p>
-
+<p align='center'>
+ Veja um pouco da minha trajetório e projetos abaixo:
+</p>
 
 
 <p align='center'>
