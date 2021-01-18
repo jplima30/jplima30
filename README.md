@@ -1,10 +1,10 @@
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-### Olá, seja bem vindo 🤝 
+### Olá, seja bem vindo 👋 
 Sou o João Paulo, desenvolvendor mobile iOS e contribuinte com a comunidade github open source.
 - 🔭 Atualmente Desenvolvento o aplicativo Swiftbank para aplicar as técnicas aprendidas recentemente.
 - 🌱 Aperfeicoando o desenvolvimento no design pattern Swift Clean.
-- 🤝 Estou buscando inserção no mercado mobile, confira meus repositórios abaixo
+- 🤝 Estou buscando inserção no mercado mobile, confira meus repositórios abaixo:
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
