@@ -5,7 +5,8 @@
 </h1>
 
 <p align='center'>
-  Um desenvolvedor mobile iOS de Belém, Brazil.
+  Um desenvolvedor mobile iOS de Belém, Brasil.
+ Confira um pouco sobre a minha trajetória e projetos abaixo:
 </p>
 
 
