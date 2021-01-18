@@ -39,7 +39,7 @@
 </details>-->
 
 <details>
-  <summary>📃 Meu histórico profissional</summary>
+  <summary>📃 Informações profissionais</summary>
 
 
 ## Education
