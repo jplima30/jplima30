@@ -1,7 +1,7 @@
 
 
 <h1 align='center'>
- Olá 👋 eu sou o João Paulo 👨‍💻
+ Olá seja bem vindo 🤝 , eu sou o João Paulo 👨‍💻
 </h1>
 
 <p align='center'>
