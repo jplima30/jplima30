@@ -29,9 +29,8 @@
 </p>
 
 <p align='center'>
-💻 Meu local de trabalho</><br/>
- 
-  <img src="https://img.shields.io/badge/Apple-iMac-999999?&logo=apple&logoColor=white" />
+💻 Meu local de trabalho<br/><br/>
+ <img src="https://img.shields.io/badge/Apple-iMac-999999?&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%209th-%230071C5.svg?&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&logoColor=white" />
   </p>
