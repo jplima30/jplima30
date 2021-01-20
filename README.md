@@ -54,13 +54,13 @@
 📆 2021 - Atual\
 📍 **Freelancer** - Belém/PA, Brasil
 
-<img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/CSS-239120?&logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white" />
 
 - 👨‍💻 **Desenvolvedor WEb .NET**\
 📆 2018 - 2019\
@@ -78,7 +78,7 @@
 
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
 
 
