@@ -48,7 +48,7 @@
 
 ## Experiencia
 
-<img align="right" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
 
 - 👨‍💻 **Desenvolvedor mobile iOS**\
 📆 2021 - Atual\
