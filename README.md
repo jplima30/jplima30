@@ -46,7 +46,7 @@
 📆 2016 - 2021
 📍 **Universidade Federal Rural da Amazônia** - Belém/PA, Brazil
 
-## Experiencia
+## Experiência
 
 <img align="right" src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
 
