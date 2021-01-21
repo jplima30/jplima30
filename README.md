@@ -47,6 +47,7 @@
 
 ## Experiência
 
+<img align="right" src="https://img.shields.io/badge/Slack-4A154B?&logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/GitHub-323330?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
