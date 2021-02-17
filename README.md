@@ -8,7 +8,7 @@
   Atualmente aprofundando os conhecimentos na plataforma da apple, atuando como desenvolvedor mobile iOS.
 </p>
 <p align='center'>
- Veja um pouco da minha trajetório e projetos abaixo:
+ Veja um pouco da minha trajetória e projetos abaixo:
 </p>
 
 
