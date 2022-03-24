@@ -52,7 +52,7 @@
 <img align="right" src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
 
 - 👨‍💻 **Desenvolvedor mobile iOS Jr**\
-📆 2021 - Atual\
+📆 2021\
 📍 **Venturus** - Campinas/SP, Brasil
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?&logo=slack&logoColor=white" />
