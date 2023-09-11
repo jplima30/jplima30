@@ -70,41 +70,6 @@
 <img align="right" src="https://img.shields.io/badge/GitHub-323330?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
 
-- 👨‍💻 **Desenvolvedor mobile iOS**\
-📆 2020 - 2021
-📍 **Freelancer** - Belém/PA, Brasil
-
-<img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/GitHub-323330?logo=github&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/CSS-0078D4?&logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white" />
-
-- 👨‍💻 **Desenvolvedor WEb .NET**\
-📆 2018 - 2019\
-📍 **Pronto Digital Soluções** - Belém/PA, Brasil
-
-<img align="right" src="https://img.shields.io/badge/html5-0078D6?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/css3-003399?logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/bootstrap-008080?logo=bootstrap&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Joomla-D14836?logo=joomla&logoColor=white" />
-
-- 👨‍💻 **Desenvolvedor de front-end**\
-📆 2016 - 2017\
-📍 **EDUFRA** - Belém/PA, Brasil
-
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Joomla-14354C?logo=joomla&logoColor=white" />
-
-
-- 👨‍💻 **Desenvolvedor de front-end**\
-📆 2015 - 2016\
-📍 **Universidade Federal Rural Da Amazonia** - Belém/PA, Brasil
-
 <!--## Skills
 
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
