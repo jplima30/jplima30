@@ -35,9 +35,6 @@
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&logoColor=white" />
   </p>
 
-  
-  <sumary>📃 Resumo acadêmico e profissional</sumary>
-
 
 ## Educação
 
