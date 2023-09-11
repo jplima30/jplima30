@@ -46,7 +46,7 @@
 📍 **Universidade Federal Rural da Amazônia** - Belém/PA, Brazil
 
 ## Experiência
-<img align="right" src="https://img.shields.io/badge/BitRise-0052CC?logo=BitRise&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/BitRise-421560?logo=BitRise&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/GitHub-323330?logo=github&logoColor=white" />
