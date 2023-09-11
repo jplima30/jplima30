@@ -46,7 +46,7 @@
 📍 **Universidade Federal Rural da Amazônia** - Belém/PA, Brazil
 
 ## Experiência
-
+<img align="right" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/GitHub-323330?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
@@ -59,7 +59,6 @@
 📆 2021\
 📍 **Venturus** - Campinas/SP, Brasil
 
-<img align="right" src="https://img.shields.io/badge/Slack-4A154B?&logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/GitHub-323330?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
