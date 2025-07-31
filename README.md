@@ -1,81 +1,123 @@
-<h1 align="center">Olá! 👋 Eu sou o João Paulo</h1>
-<h3 align="center">Desenvolvedor iOS | Entusiasta Mobile | Especialista em Plataforma Apple</h3>
+<!-- Header -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+  João Paulo | Desenvolvedor iOS
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jplima30&label=Visitas%20ao%20Perfil&color=0e75b6&style=flat" alt="jplima30" />
+  <strong>Desenvolvedor Mobile especializado em iOS com foco em SwiftUI e arquitetura moderna.</strong>
 </p>
 
 ---
 
-### 👨‍💻 Sobre Mim
+## 📝 Sobre Mim
 
-- 🔭 **Atualmente trabalho** como Desenvolvedor Mobile iOS na **ACT Digital**
-- 🌱 **Aprofundando** meus conhecimentos no ecossistema Apple e desenvolvimento iOS
-- 💼 **Experiência** em desenvolvimento mobile com Swift e Xcode
-- 🎓 **Bacharelado** em Sistemas de Informação - UFRA (2016-2021)
-- 📍 **Localizado em** Barueri/SP, Brasil
+Me chamo João Paulo, tenho 28 anos e sou natural de Belém, Pará. Concluí o bacharelado em Sistemas de Informação na Universidade Federal Rural da Amazônia (UFRA). Atualmente, trabalho como desenvolvedor iOS sênior na ACT Digital, onde me dedico ao desenvolvimento de aplicativos empresariais robustos e escaláveis.
 
-### 🚀 Tecnologias e Ferramentas
+Sou apaixonado por tecnologia e inovação, sempre buscando aprimorar minhas habilidades técnicas e compartilhar conhecimento através de artigos e projetos open source.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitrise-421560?style=for-the-badge&logo=bitrise&logoColor=white" />
-</p>
+---
 
-### 📊 Estatísticas do GitHub
+## 🛠️ Linguagens e Tecnologias
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jplima30&show_icons=true&theme=radical&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jplima30&layout=compact&theme=radical" width="400" />
-</p>
+<div align="center">
+  
+  <!-- Icons and badges -->
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-F54A27?style=for-the-badge&logo=swift&logoColor=white" />
+  <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-FFAC45?style=for-the-badge&logo=swiftui&logoColor=white" />
+  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img alt="UIKit" src="https://img.shields.io/badge/UIKit-007ACC?style=for-the-badge&logo=uikit&logoColor=white" />
+  <img alt="CoreData" src="https://img.shields.io/badge/CoreData-FA7343?style=for-the-badge&logo=coredata&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Bitrise" src="https://img.shields.io/badge/Bitrise-421560?style=for-the-badge&logo=bitrise&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  
+</div>
 
-### 📈 Atividade de Contribuição
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jplima30&theme=radical" />
-</p>
+## 📊 Estatísticas do GitHub
 
-### 🎓 Educação e Experiência
+<div align="center">
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jplima30&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jplima30&layout=compact&theme=radical" alt="Top Languages" />
+  
+</div>
 
-**🎓 Bacharelado em Sistemas de Informação**  
-*Universidade Federal Rural da Amazônia* (2016-2021) - Belém/PA
+---
 
-**💼 Desenvolvedor Mobile iOS**  
-*ACT Digital* (2023 - Atual) - Barueri/SP
+## 💼 Experiência Profissional
 
-**💼 Desenvolvedor Mobile iOS Jr**  
-*Venturus* (2021) - Campinas/SP
+### **Desenvolvedor iOS Sênior @ ACT Digital**
+**Período:** 2023 - Atual  
+**Localização:** Barueri/SP, Brasil  
+- Desenvolvimento de aplicativos empresariais complexos.
+- Arquitetura de soluções escaláveis utilizando MVVM e Clean Architecture.
+- Mentoria de equipes de desenvolvimento mobile.
 
-### 🛠️ Ambiente de Desenvolvimento
+### **Desenvolvedor iOS Jr @ Venturus**
+**Período:** 2021  
+**Localização:** Campinas/SP, Brasil  
+- Desenvolvimento de features em aplicativos existentes.
+- Testes automatizados e manutenção de código.
+- Integração com APIs RESTful.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Apple-MacBook_Pro-gray?style=flat-square&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intel-Core_i5_9th-%230071C5?style=flat-square&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-32GB-blue?style=flat-square" />
-</p>
+---
 
-### 🌐 Conecte-se Comigo
+## 🎓 Educação
 
-<p align="center">
+### **Bacharelado em Sistemas de Informação**
+*Universidade Federal Rural da Amazônia* (2016-2021)  
+Belém/PA, Brasil  
+
+---
+
+## 🌐 Redes Sociais e Contato
+
+<div align="center">
+  
+  <!-- Social Media Links -->
   <a href="https://www.linkedin.com/in/jpdeveloper/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/5591989385611?text=Olá! João Paulo">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:joaopaulo@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+  
+</div>
 
-### 📫 Vamos Conversar!
+---
 
-Sinta-se à vontade para entrar em contato para colaborações, oportunidades de trabalho ou apenas para dizer olá!
+## 🚀 Projetos em Destaque
+
+<details>
+<summary>Veja mais detalhes dos meus projetos</summary>
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|------------|
+| **FinanceTracker** | App de gestão financeira pessoal | SwiftUI, CoreData, Charts |
+| **HealthMonitor** | Monitoramento de saúde e atividades físicas | HealthKit, WatchKit |
+| **E-commerce Pro** | Plataforma de vendas mobile | API REST, Pagamentos, Push Notifications |
+
+</details>
+
+---
+
+## 🤝 Vamos Conversar?
+
+Sinta-se à vontade para entrar em contato para colaborações, oportunidades ou apenas para dizer olá!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+  <br>
+  <em>Transformando ideias em apps extraordinários, uma linha de código por vez!</em>
 </p>
