@@ -53,8 +53,8 @@ Sou apaixonado por tecnologia e inovação, sempre buscando aprimorar minhas hab
 
 ## 💼 Experiência Profissional
 
-### **Desenvolvedor iOS Sênior @ ACT Digital**
-**Período:** 2023 - Atual  
+### **Desenvolvedor iOS @ ACT Digital**
+**Período:** 2024 - 2025  
 **Localização:** Barueri/SP, Brasil  
 - Desenvolvimento de aplicativos empresariais complexos.
 - Arquitetura de soluções escaláveis utilizando MVVM e Clean Architecture.
