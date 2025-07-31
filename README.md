@@ -61,7 +61,7 @@ Sou apaixonado por tecnologia e inovação, sempre buscando aprimorar minhas hab
 - Mentoria de equipes de desenvolvimento mobile.
 
 ### **Desenvolvedor iOS Jr @ Venturus**
-**Período:** 2021  
+**Período:** 2021  - 2022
 **Localização:** Campinas/SP, Brasil  
 - Desenvolvimento de features em aplicativos existentes.
 - Testes automatizados e manutenção de código.
@@ -72,7 +72,7 @@ Sou apaixonado por tecnologia e inovação, sempre buscando aprimorar minhas hab
 ## 🎓 Educação
 
 ### **Bacharelado em Sistemas de Informação**
-*Universidade Federal Rural da Amazônia* (2016-2021)  
+*Universidade Federal Rural da Amazônia* (2009 - 2015 interrupção)  
 Belém/PA, Brasil  
 
 ---
