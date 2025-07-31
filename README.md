@@ -96,27 +96,12 @@ Belém/PA, Brasil
 
 ---
 
-## 🚀 Projetos em Destaque
-
-<details>
-<summary>Veja mais detalhes dos meus projetos</summary>
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|------------|
-| **FinanceTracker** | App de gestão financeira pessoal | SwiftUI, CoreData, Charts |
-| **HealthMonitor** | Monitoramento de saúde e atividades físicas | HealthKit, WatchKit |
-| **E-commerce Pro** | Plataforma de vendas mobile | API REST, Pagamentos, Push Notifications |
-
-</details>
-
----
-
 ## 🤝 Vamos Conversar?
 
-Sinta-se à vontade para entrar em contato para colaborações, oportunidades ou apenas para dizer olá!
+Sinta-se à vontade para entrar em contato.
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
   <br>
-  <em>Transformando ideias em apps extraordinários, uma linha de código por vez!</em>
+  <em>Uma linha de código por vez!</em>
 </p>
