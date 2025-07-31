@@ -13,9 +13,8 @@
 
 ## 📝 Sobre Mim
 
-Me chamo João Paulo, tenho 28 anos e sou natural de Belém, Pará. Concluí o bacharelado em Sistemas de Informação na Universidade Federal Rural da Amazônia (UFRA). Atualmente, trabalho como desenvolvedor iOS sênior na ACT Digital, onde me dedico ao desenvolvimento de aplicativos empresariais robustos e escaláveis.
-
-Sou apaixonado por tecnologia e inovação, sempre buscando aprimorar minhas habilidades técnicas e compartilhar conhecimento através de artigos e projetos open source.
+Me chamo João Paulo, tenho 38 anos e sou natural de Belém. Atualmente, meu foco de carreira é dedicado ao desenvolvimento de Apps nativos na plataforma iOS, onde busco escalar e aperfeiçoar minhas habilidades. 
+Sou apaixonado por tecnologia e inovação, sempre buscando aprimorar minhas habilidades técnicas e meus projetos open source.
 
 ---
 
