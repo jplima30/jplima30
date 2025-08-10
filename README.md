@@ -58,7 +58,7 @@ Sou apaixonado por tecnologia e inovação, sempre buscando aprimorar minhas hab
 **Localização:** Barueri/SP, Brasil  
 - Desenvolvimento de aplicativos empresariais complexos.
 - Arquitetura de soluções escaláveis utilizando MVVM e Clean Architecture.
-- Mentoria de equipes de desenvolvimento mobile.
+- Manutenção e correção de Apps.
 
 ### **Desenvolvedor iOS Jr @ Venturus**
 **Período:** 2021  - 2022
