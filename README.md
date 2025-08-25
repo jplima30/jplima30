@@ -13,7 +13,7 @@
 
 ## 📝 Sobre Mim
 
-Me chamo João Paulo, tenho 38 anos e sou natural de Belém. Atualmente, meu foco de carreira é dedicado ao desenvolvimento de Apps nativos na plataforma iOS.
+Me chamo João Paulo, tenho 36 anos e sou natural de Belém. Atualmente, meu foco de carreira é dedicado ao desenvolvimento de Apps nativos na plataforma iOS.
 Sou apaixonado por tecnologia e inovação, sempre buscando aprimorar minhas habilidades técnicas e meus projetos open source.
 
 ---
@@ -54,7 +54,7 @@ Sou apaixonado por tecnologia e inovação, sempre buscando aprimorar minhas hab
 ## 💼 Experiência Profissional
 
 ### **Desenvolvedor iOS @ ACT Digital**
-**Período:** 2024 - 2025  
+**Período:** 2023 - 2024  
 **Localização:** Barueri/SP, Brasil  
 - Desenvolvimento de aplicativos empresariais complexos.
 - Arquitetura de soluções escaláveis utilizando MVVM e Clean Architecture.
