@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <strong>Desenvolvedor Mobile especializado em iOS com foco em SwiftUI e arquitetura moderna.</strong>
+  <strong>Desenvolvedor Mobile iOS developer | Swift | SwiftUI | UIkit | Xcode | CI/CD.</strong>
 </p>
 
 ---
