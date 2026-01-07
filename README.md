@@ -47,6 +47,8 @@ Sou apaixonado por tecnologia e inovação, sempre buscando aprimorar minhas hab
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jplima30&layout=compact&theme=radical" alt="Top Languages" />
   
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jplima30&theme=radical&hide_border=true" width="94%" alt="Sequência de contribuições" />
+</div>
 </div>
 
 ---
