@@ -48,7 +48,7 @@ Sou apaixonado por tecnologia e inovação, sempre buscando aprimorar minhas hab
     </tr>
   </table>
   <br>
-  <img src="https://streak-stats.demolab.com/?user=jplima30&theme=radical&hide_border=true&locale=pt-br&cache_bust=unique_id_99" width="94%" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com/?user=jplima30&theme=radical&hide_border=true&locale=pt-br&cache_bust=2026" width="94%" alt="Sequência de contribuições" />
 </div>
 
 ---
