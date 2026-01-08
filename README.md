@@ -54,20 +54,6 @@ Sou apaixonado por tecnologia e inovação, sempre buscando aprimorar minhas hab
   </table>
 </div>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://vercelstats-lovat.vercel.app/api?username=jplima30&show_icons=true&theme=radical&hide_border=true&count_private=true&locale=pt-br&v=jan07_final" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://vercelstats-lovat.vercel.app/api/top-langs/?username=jplima30&layout=compact&theme=radical&hide_border=true&hide=c,c%2B%2B,asl,shell,makefile&locale=pt-br&v=jan07_final" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-gamma-roan.vercel.app?user=jplima30&theme=radical&locale=pt_BR" width="85%" alt="Sequência de contribuições" /></a>
-
 ---
 
 ## 💼 Experiência Profissional
