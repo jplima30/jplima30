@@ -36,19 +36,19 @@ Sou apaixonado por tecnologia e inovação, sempre buscando aprimorar minhas hab
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <table width="94%" border="0" cellspacing="1" cellpadding="0" bgcolor="#30363d">
+div align="center">
+  <table width="94%" border="0" cellspacing="0" cellpadding="0" bgcolor="#30363d" style="border-collapse: collapse; border-spacing: 0;">
     <tr>
-      <td width="50%" align="center" bgcolor="#141321">
-        <img src="https://vercelstats-lovat.vercel.app/api?username=jplima30&show_icons=true&theme=radical&hide_border=true&count_private=true&locale=pt-br&bg_color=141321" width="100%" style="display: block; vertical-align: middle; margin: 0;" />
+      <td width="50%" align="center" bgcolor="#141321" style="padding: 0; line-height: 0;">
+        <img src="https://vercelstats-lovat.vercel.app/api?username=jplima30&show_icons=true&theme=radical&hide_border=true&count_private=true&locale=pt-br&bg_color=141321" width="100%" border="0" style="display: block; border: none; margin: 0; padding: 0;" />
       </td>
-      <td width="50%" align="center" bgcolor="#141321">
-        <img src="https://vercelstats-lovat.vercel.app/api/top-langs/?username=jplima30&layout=compact&theme=radical&hide_border=true&hide=c,c%2B%2B,asl,shell,makefile&locale=pt-br&bg_color=141321" width="100%" style="display: block; vertical-align: middle; margin: 0;" />
+      <td width="50%" align="center" bgcolor="#141321" style="padding: 0; line-height: 0;">
+        <img src="https://vercelstats-lovat.vercel.app/api/top-langs/?username=jplima30&layout=compact&theme=radical&hide_border=true&hide=c,c%2B%2B,asl,shell,makefile&locale=pt-br&bg_color=141321" width="100%" border="0" style="display: block; border: none; margin: 0; padding: 0;" />
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center" bgcolor="#141321">
-        <img src="https://github-readme-streak-stats-gamma-roan.vercel.app/?user=jplima30&theme=radical&hide_border=true&locale=pt-br&background=141321" width="100%" style="display: block; vertical-align: middle; margin: 0;" />
+      <td colspan="2" align="center" bgcolor="#141321" style="padding: 0; line-height: 0;">
+        <img src="https://github-readme-streak-stats-gamma-roan.vercel.app/?user=jplima30&theme=radical&hide_border=true&locale=pt-br&background=141321&border_radius=0&fire=F05138" width="100%" border="0" style="display: block; border: none; margin: 0; padding: 0;" />
       </td>
     </tr>
   </table>
