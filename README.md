@@ -40,15 +40,15 @@ Sou apaixonado por tecnologia e inovação, sempre buscando aprimorar minhas hab
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://vercelstats-lovat.vercel.app/api?username=jplima30&show_icons=true&theme=radical&hide_border=true&count_private=true&locale=pt-br&v=2026_final" alt="GitHub Stats" />
+        <img src="https://vercelstats-lovat.vercel.app/api?username=jplima30&show_icons=true&theme=radical&hide_border=true&count_private=true&locale=pt-br&v=jan07_final" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://vercelstats-lovat.vercel.app/api/top-langs/?username=jplima30&layout=compact&theme=radical&hide_border=true&hide=c,c%2B%2B,asl,shell,makefile&locale=pt-br&v=2026_final" alt="Top Languages" />
+        <img src="https://vercelstats-lovat.vercel.app/api/top-langs/?username=jplima30&layout=compact&theme=radical&hide_border=true&hide=c,c%2B%2B,asl,shell,makefile&locale=pt-br&v=jan07_final" alt="Top Languages" />
       </td>
     </tr>
   </table>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jplima30&theme=radical&hide_border=true&locale=pt-br&update=jan07_23h" width="94%" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com/?user=jplima30&theme=radical&hide_border=true&locale=pt-br&cache_bust=unique_id_99" width="94%" alt="Sequência de contribuições" />
 </div>
 
 ---
