@@ -102,7 +102,9 @@ Belém/PA, Brasil
 Sinta-se à vontade para entrar em contato.
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/jpdeveloper/" target="_blank">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+  </a>
   <br>
   <em>Uma linha de código por vez!</em>
 </p>
