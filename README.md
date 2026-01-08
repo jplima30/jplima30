@@ -48,6 +48,9 @@ Sou apaixonado por tecnologia e inovação, sempre buscando aprimorar minhas hab
     </tr>
   </table>
   <br>
+<img src="https://github-readme-streak-stats-gamma-roan.vercel.app/?user=jplima30&theme=radical&hide_border=true&locale=pt-br" width="94%" alt="Sequência de contribuições" />
+</div>
+  
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-gamma-roan.vercel.app?user=jplima30&theme=radical&locale=pt_BR" width="94%" alt="Sequência de contribuições" /></a>
 
 ---
