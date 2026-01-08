@@ -24,7 +24,6 @@ Sou apaixonado por tecnologia e inovação, sempre buscando aprimorar minhas hab
   <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-FFAC45?style=for-the-badge&logo=swiftui&logoColor=white" />
   <img alt="Xcode" src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />
   <img alt="UIKit" src="https://img.shields.io/badge/UIKit-007ACC?style=for-the-badge&logo=uikit&logoColor=white" />
-  <img alt="CoreData" src="https://img.shields.io/badge/CoreData-FA7343?style=for-the-badge&logo=coredata&logoColor=white" />
   <br>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -36,7 +35,7 @@ Sou apaixonado por tecnologia e inovação, sempre buscando aprimorar minhas hab
 
 ## 📊 Estatísticas do GitHub
 
-div align="center">
+<div align="center">
   <table width="94%" border="0" cellspacing="0" cellpadding="0" bgcolor="#30363d" style="border-collapse: collapse; border-spacing: 0;">
     <tr>
       <td width="50%" align="center" bgcolor="#141321" style="padding: 0; line-height: 0;">
