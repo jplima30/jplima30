@@ -45,9 +45,9 @@ Sou apaixonado por tecnologia e inovação, sempre buscando aprimorar minhas hab
         <img src="https://vercelstats-lovat.vercel.app/api/top-langs/?username=jplima30&layout=compact&theme=radical&hide_border=true&hide=c,c%2B%2B,asl,shell,makefile&locale=pt-br&bg_color=141321" width="100%" border="0" style="display: block; border: none; margin: 0; padding: 0;" />
       </td>
     </tr>
-    <tr>
+   <tr>
       <td colspan="2" align="center" bgcolor="#141321" style="padding: 0; line-height: 0;">
-        <img src="https://github-readme-streak-stats-gamma-roan.vercel.app/?user=jplima30&theme=radical&hide_border=true&locale=pt-br&background=141321&border_radius=0&fire=F05138" width="100%" border="0" style="display: block; border: none; margin: 0; padding: 0;" />
+        <img src="https://github-readme-streak-stats-gamma-roan.vercel.app/?user=jplima30&theme=radical&hide_border=true&locale=pt-br&background=141321&border_radius=0&fire=F05138&timezone=America/Sao_Paulo" width="100%" border="0" style="display: block; border: none; margin: 0; padding: 0;" />
       </td>
     </tr>
   </table>
