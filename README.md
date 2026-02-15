@@ -47,7 +47,7 @@ Sou apaixonado por tecnologia e inovação, sempre buscando aprimorar minhas hab
     </tr>
     <tr>
       <td colspan="2" align="center" bgcolor="#141321" style="padding: 0; line-height: 0;">
-        <img src="https://github-readme-streak-stats-gamma-roan.vercel.app/?user=jplima30&timezone=America%2FSao_Paulo&theme=radical&hide_border=true&locale=pt-br&background=141321&border_radius=0&fire=F05138&v=3" width="100%" border="0" style="display: block; border: none; margin: 0; padding: 0;" />
+       <img src="https://streak-stats.demolab.com/?user=jplima30&timezone=America/Belem&theme=radical&hide_border=true&locale=pt-br&background=141321&border_radius=0&fire=F05138&cache_seconds=1800" width="100%" border="0" style="display: block; border: none; margin: 0; padding: 0;" />
       </td>
     </tr>
   </table>
