@@ -12,7 +12,7 @@
 
 ## 📝 Sobre Mim
 
-Me chamo João Paulo, tenho 36 anos e sou natural de Belém/PA. Atualmente, meu foco de carreira é dedicado ao desenvolvimento de Apps nativos na plataforma iOS.
+Me chamo João Paulo, tenho 38 anos e sou natural de Belém/PA. Atualmente, meu foco de carreira é dedicado ao desenvolvimento de Apps nativos na plataforma iOS.
 Sou apaixonado por tecnologia e inovação, sempre buscando aprimorar minhas habilidades técnicas e meus projetos open source.
 
 ---
